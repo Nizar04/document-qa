@@ -1,2 +1,7 @@
 streamlit
 openai
+youtube-transcript-api
+langdetect
+deep-translator
+python-dotenv
+requests
